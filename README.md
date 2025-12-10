@@ -40,8 +40,8 @@ A modern, full-stack task management application built with MongoDB, Express.js,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/mern-todo-app.git
-   cd mern-todo-app
+   git clone https://github.com/kefimoetaz/todolist.git
+   cd todolist
    ```
 
 2. **Start the application**
@@ -265,7 +265,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
 
-Project Link: [https://github.com/YOUR_USERNAME/mern-todo-app](https://github.com/YOUR_USERNAME/mern-todo-app)
+Project Link: [https://github.com/kefimoetaz/todolist](https://github.com/kefimoetaz/todolist)
 
 ---
 
